@@ -3,7 +3,7 @@ Hi there! I'm Phisit, a scientist specializing in Heamatology 🧑🏽‍🔬�
 
 My journey into coding began with C/C++, where I delved into the complexities of data structures and algorithms. In the past, I've contributed to the development of a small robotic fish, showcasing its ability to navigate independently in the water. This project drew inspiration from the Micromouse Competition. 🐁
 
-I am presently deeply engaged in an intensive coding bootcamp with a specific emphasis on FrontEnd Development. This program is designed to equip me with the essential skills required to thrive as a proficient full-stack developer in the near future. Simultaneously, I am pursuing a MSc degree in Computer Science with a specialization in Machine Learning.
+Currently, I'm engaged in an intensive coding bootcamp with a specific emphasis on FrontEnd Development. This program is designed to equip me with the essential skills required to thrive as a proficient full-stack developer in the near future. Simultaneously, I am pursuing a MSc degree in Computer Science with a specialization in Machine Learning.
 
 ## Key Interests 🧠
 
