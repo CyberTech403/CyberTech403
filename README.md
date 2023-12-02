@@ -46,5 +46,5 @@ Developing an AI-integrated Head-Up Display (HUD) 👓 for motorcycle helmets, w
 ##
 
 <p align="center">
-<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=CyberTech403&theme=tokyonight&hide_border=true&card_width=500"/></a> </p>
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=CyberTech403&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
 
