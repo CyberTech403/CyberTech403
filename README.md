@@ -1,3 +1,8 @@
+<p align="center">
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=CyberTech403&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+
+##
+
 ## My Journey into Coding 💻
 Hi there! I'm Phisit, a scientist specializing in Heamatology 🧑🏽‍🔬🧪. In the midst of my thriving career in life sciences, an irresistible pull drew me toward the realm of coding. I unearthed a deep-seated fascination with harnessing technology to unravel intricate problems. 
 
@@ -51,9 +56,3 @@ Developing an AI-integrated Head-Up Display (HUD) 👓 for motorcycle helmets, w
 </p>    
 
 <p align="center"> Blender - Adobe Photoshop - Adobe illustrator - RaspberryPi </p>
-
-##
-
-<p align="center">
-<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=CyberTech403&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
-
